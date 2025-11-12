@@ -1,0 +1,15 @@
+{
+  title: "Farming & Food",
+  quests: [
+    {
+      title: "Plant Seeds",
+      tasks: [{ id: "minecraft:wheat_seeds", count: 10 }],
+      rewards: [{ item: "minecraft:bread", count: 5 }]
+    },
+    {
+      title: "Breed Animals",
+      tasks: [{ id: "minecraft:cow" }],
+      rewards: [{ item: "minecraft:leather", count: 3 }]
+    }
+  ]
+}
