@@ -1,0 +1,16 @@
+{
+  title: "Getting Started",
+  quests: [
+    {
+      title: "Punch a Tree",
+      subtitle: "Begin your SkyBlock journey",
+      tasks: [{ id: "minecraft:oak_log" }],
+      rewards: [{ item: "minecraft:apple", count: 3 }]
+    },
+    {
+      title: "Craft a Crafting Table",
+      tasks: [{ id: "minecraft:crafting_table" }],
+      rewards: [{ item: "minecraft:stone_axe" }]
+    }
+  ]
+}
