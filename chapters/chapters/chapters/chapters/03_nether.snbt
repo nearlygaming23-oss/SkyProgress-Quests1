@@ -1,0 +1,15 @@
+{
+  title: "The Nether",
+  quests: [
+    {
+      title: "Build a Nether Portal",
+      tasks: [{ id: "minecraft:obsidian", count: 10 }],
+      rewards: [{ item: "minecraft:gold_ingot", count: 10 }]
+    },
+    {
+      title: "Collect Blaze Rods",
+      tasks: [{ id: "minecraft:blaze_rod", count: 5 }],
+      rewards: [{ item: "minecraft:ender_pearl", count: 3 }]
+    }
+  ]
+}
