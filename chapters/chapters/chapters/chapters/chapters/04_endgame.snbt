@@ -1,0 +1,15 @@
+{
+  title: "Endgame Progress",
+  quests: [
+    {
+      title: "Get Diamonds",
+      tasks: [{ id: "minecraft:diamond", count: 5 }],
+      rewards: [{ item: "minecraft:diamond_pickaxe" }]
+    },
+    {
+      title: "Defeat the Ender Dragon",
+      tasks: [{ id: "minecraft:dragon_egg" }],
+      rewards: [{ item: "minecraft:elytra" }]
+    }
+  ]
+}
