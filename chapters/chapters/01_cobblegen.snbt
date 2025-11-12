@@ -1,0 +1,15 @@
+{
+  title: "Cobblestone Generator",
+  quests: [
+    {
+      title: "Make a Cobblestone Generator",
+      tasks: [{ id: "minecraft:lava_bucket" }, { id: "minecraft:water_bucket" }],
+      rewards: [{ item: "minecraft:iron_pickaxe" }]
+    },
+    {
+      title: "Mine Cobblestone",
+      tasks: [{ id: "minecraft:cobblestone", count: 64 }],
+      rewards: [{ item: "minecraft:coal", count: 8 }]
+    }
+  ]
+}
